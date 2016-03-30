@@ -1,0 +1,8 @@
+C:\Users\Daemon\Documents\GitHub\CircleCatch\Basiliy2\bin\Debug\Basiliy2.exe.config
+C:\Users\Daemon\Documents\GitHub\CircleCatch\Basiliy2\bin\Debug\Basiliy2.exe
+C:\Users\Daemon\Documents\GitHub\CircleCatch\Basiliy2\bin\Debug\Basiliy2.pdb
+C:\Users\Daemon\Documents\GitHub\CircleCatch\Basiliy2\obj\Debug\Basiliy2.Form1.resources
+C:\Users\Daemon\Documents\GitHub\CircleCatch\Basiliy2\obj\Debug\Basiliy2.Properties.Resources.resources
+C:\Users\Daemon\Documents\GitHub\CircleCatch\Basiliy2\obj\Debug\Basiliy2.csproj.GenerateResource.Cache
+C:\Users\Daemon\Documents\GitHub\CircleCatch\Basiliy2\obj\Debug\Basiliy2.exe
+C:\Users\Daemon\Documents\GitHub\CircleCatch\Basiliy2\obj\Debug\Basiliy2.pdb

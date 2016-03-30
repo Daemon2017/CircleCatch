@@ -1,0 +1,18 @@
+C:\Users\Dmitriy\documents\visual studio 2013\Projects\Basiliy2\Basiliy2\bin\Release\Basiliy2.exe.config
+C:\Users\Dmitriy\documents\visual studio 2013\Projects\Basiliy2\Basiliy2\bin\Release\Basiliy2.exe
+C:\Users\Dmitriy\documents\visual studio 2013\Projects\Basiliy2\Basiliy2\bin\Release\Basiliy2.pdb
+C:\Users\Dmitriy\documents\visual studio 2013\Projects\Basiliy2\Basiliy2\obj\Release\Basiliy2.Form1.resources
+C:\Users\Dmitriy\documents\visual studio 2013\Projects\Basiliy2\Basiliy2\obj\Release\Basiliy2.Properties.Resources.resources
+C:\Users\Dmitriy\documents\visual studio 2013\Projects\Basiliy2\Basiliy2\obj\Release\Basiliy2.csproj.GenerateResource.Cache
+C:\Users\Dmitriy\documents\visual studio 2013\Projects\Basiliy2\Basiliy2\obj\Release\Basiliy2.exe
+C:\Users\Dmitriy\documents\visual studio 2013\Projects\Basiliy2\Basiliy2\obj\Release\Basiliy2.pdb
+C:\Users\Dmitriy\documents\visual studio 2013\Projects\Basiliy2\Basiliy2\obj\Release\Basiliy2.csprojResolveAssemblyReference.cache
+C:\Users\Daemon\Documents\GitHub\CircleCatch\Basiliy2\bin\Release\Basiliy2.exe.config
+C:\Users\Daemon\Documents\GitHub\CircleCatch\Basiliy2\obj\Release\Basiliy2.exe
+C:\Users\Daemon\Documents\GitHub\CircleCatch\Basiliy2\obj\Release\Basiliy2.pdb
+C:\Users\Daemon\Documents\GitHub\CircleCatch\Basiliy2\bin\Release\Basiliy2.exe
+C:\Users\Daemon\Documents\GitHub\CircleCatch\Basiliy2\bin\Release\Basiliy2.pdb
+C:\Users\Daemon\Documents\GitHub\CircleCatch\Basiliy2\obj\Release\Basiliy2.csprojResolveAssemblyReference.cache
+C:\Users\Daemon\Documents\GitHub\CircleCatch\Basiliy2\obj\Release\Basiliy2.Form1.resources
+C:\Users\Daemon\Documents\GitHub\CircleCatch\Basiliy2\obj\Release\Basiliy2.Properties.Resources.resources
+C:\Users\Daemon\Documents\GitHub\CircleCatch\Basiliy2\obj\Release\Basiliy2.csproj.GenerateResource.Cache
